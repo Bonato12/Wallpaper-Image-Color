@@ -1,0 +1,20 @@
+body {
+background-image: url('background.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-color: #0C94F5;
+}
+
+
+.normal-link{
+background: #237E7C;
+}
+
+
+.normal-link:active{
+background-color: red;
+}
+
+.menu{
+  float:center;
+}
