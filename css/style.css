@@ -3,6 +3,7 @@ background-image: url('background.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-color: #FEC404;
+font-family: sans-serif;
 
 }
 
@@ -45,6 +46,9 @@ background: #FEC404;
   text-align: center;
   color: black;
   font-size: 50px;
+  /*subrayado arriba el de abajo se llama underline*/
+  text-decoration: overline;
+
 }
 
 
