@@ -2,7 +2,7 @@ body {
 background-image: url('background.jpg');
 background-size: cover;
 background-repeat: no-repeat;
-background-color: #0C94F5;
+background-color: #FEC404;
 
 }
 
@@ -27,7 +27,7 @@ width:105px;
 .normal-link:hover{
 /*border: 2px solid #FEC404; /* Green */
 background: #FEC404;
--webkit-animation: rotation 2s infinite
+-webkit-animation: rotation 2s;
 }
 
 
@@ -48,5 +48,5 @@ background: #FEC404;
 
 
 .titulo:hover{
-  
+
 }
