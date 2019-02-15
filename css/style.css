@@ -22,13 +22,14 @@ background: #237E7C;
 border: 2px solid #4CAF50; /* Green */
 height:50px;
 width:105px;
+font-size: 15px;
 
 }
 
 .normal-link:hover{
 /*border: 2px solid #FEC404; /* Green */
 background: #FEC404;
--webkit-animation: rotation 2s;
+-webkit-animation: rotation 2s infinite;
 }
 
 
