@@ -37,13 +37,14 @@ background: #FEC404;
 }
 
 .menu{
-  float:center;
+  text-align: center;
 
 }
 
 .titulo{
-  float:left;
-  color: white;
+  text-align: center;
+  color: black;
+  font-size: 50px;
 }
 
 
