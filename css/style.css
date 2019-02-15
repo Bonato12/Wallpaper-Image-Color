@@ -8,13 +8,28 @@ background-color: #0C94F5;
 
 .normal-link{
 background: #237E7C;
+border: 2px solid #4CAF50; /* Green */
+height:50px;
+width:105px;
+}
+
+.normal-link:hover{
+/*border: 2px solid #FEC404; /* Green */
+background: #FEC404;
 }
 
 
 .normal-link:active{
-background-color: red;
+/*border: 2px solid #FEC404; /* Green */
+background: #FEC404;
 }
 
 .menu{
   float:center;
+
+}
+
+.titulo{
+  float:left;
+  color: white;
 }
