@@ -3,6 +3,16 @@ background-image: url('background.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-color: #0C94F5;
+
+}
+
+@-webkit-keyframes rotation {
+		from {
+				-webkit-transform: rotate(0deg);
+		}
+		to {
+				-webkit-transform: rotate(359deg);
+		}
 }
 
 
@@ -11,11 +21,13 @@ background: #237E7C;
 border: 2px solid #4CAF50; /* Green */
 height:50px;
 width:105px;
+
 }
 
 .normal-link:hover{
 /*border: 2px solid #FEC404; /* Green */
 background: #FEC404;
+-webkit-animation: rotation 2s infinite
 }
 
 
@@ -32,4 +44,9 @@ background: #FEC404;
 .titulo{
   float:left;
   color: white;
+}
+
+
+.titulo:hover{
+  
 }
