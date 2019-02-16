@@ -29,7 +29,7 @@ font-size: 15px;
 .normal-link:hover{
 /*border: 2px solid #FEC404; /* Green */
 background: #FEC404;
--webkit-animation: rotation 2s infinite;
+-webkit-animation: rotation 2s;
 }
 
 
